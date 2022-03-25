@@ -1,0 +1,9 @@
+.Footer{
+  background-color: #0E9749;
+  color : white;
+  margin-top: 100px;
+}
+
+.topnav a.active {
+  border-bottom: 3px solid #FFCC00;
+}

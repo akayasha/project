@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": 1648198705467,
+      "first_name": "firman ismail hariri",
+      "email": "akayasha99@gmail.com",
+      "gender": " male"
+    },
+    {
+      "id": 1648198716950,
+      "first_name": "firman",
+      "email": "firman.hariri@binus.ac.id",
+      "gender": " male"
+    },
+    {
+      "id": 1648198787182,
+      "first_name": "yayah",
+      "email": "refanialmuharomah@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": 1648204843682,
+      "first_name": "firman",
+      "email": "refanialmuharomah@gmail.com",
+      "gender": " male"
+    }
+  ]
+}
